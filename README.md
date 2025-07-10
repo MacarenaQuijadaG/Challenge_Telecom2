@@ -5,9 +5,6 @@
 Este proyecto tiene como objetivo **predecir la cancelación de clientes (churn)** en una compañía de telecomunicaciones. Se parte de datos históricos para analizar y modelar factores clave que influyen en la decisión de los clientes de abandonar el servicio. Los hallazgos permitirán diseñar estrategias de retención más efectivas y modelos predictivos que anticipen la evasión de clientes.
 
 ---
-
----
-
 ## ⚙️ Preparación y tratamiento de datos
 
 ### 📑 Clasificación de variables
@@ -54,6 +51,11 @@ Asegúrate de tener Python instalado con las siguientes bibliotecas:
 
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn
+
+
+
+
+
 
 
 ## ▶️ Cómo ejecutar
