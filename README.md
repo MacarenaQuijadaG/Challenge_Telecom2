@@ -69,4 +69,11 @@ El archivo procesado se guarda como Clientes.json o Clientes.csv según la expor
 ## ✅ Resultado
 Este proyecto establece las bases para construir un modelo predictivo robusto de churn. Gracias a la limpieza de datos, la exploración profunda y la correcta preparación, los próximos pasos pueden centrarse en seleccionar y entrenar algoritmos de clasificación adecuados.
 
+## 💡 Principales hallazgos
+Los clientes con contratos mensuales tienen tasas de churn significativamente más altas (42%) comparados con contratos anuales (11%) o bianuales (3%).
+
+La falta de servicios como OnlineSecurity y TechSupport aumenta el riesgo de abandono en un 35%.
+
+Los primeros 12 meses son críticos para la retención, especialmente en clientes mayores de 65 años.
+
 Autor: Macarena Quijada G
