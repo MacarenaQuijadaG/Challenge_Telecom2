@@ -49,12 +49,7 @@ Durante el EDA se generaron insights clave:
 
 Asegúrate de tener Python instalado con las siguientes bibliotecas:
 
-```bash
 pip install pandas numpy seaborn matplotlib scikit-learn
-
-
-
-
 
 
 
