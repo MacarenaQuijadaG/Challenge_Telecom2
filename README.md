@@ -66,7 +66,7 @@ Ejecuta las celdas en orden para reproducir el análisis, las transformaciones y
 
 El archivo procesado se guarda como Clientes.json o Clientes.csv según la exportación.
 
-##✅ Resultado
+## ✅ Resultado
 Este proyecto establece las bases para construir un modelo predictivo robusto de churn. Gracias a la limpieza de datos, la exploración profunda y la correcta preparación, los próximos pasos pueden centrarse en seleccionar y entrenar algoritmos de clasificación adecuados.
 
 Autor: Macarena Quijada G
