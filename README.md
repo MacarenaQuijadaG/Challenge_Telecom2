@@ -25,7 +25,7 @@ Este proyecto tiene como objetivo **predecir la cancelación de clientes (churn)
 
 Se dividieron los datos en conjuntos de **entrenamiento (train)** y **prueba (test)** usando técnicas de validación cruzada para evaluar el rendimiento de los modelos de predicción de churn.
 
-### 💡 Justificaciones
+### 💡 Justificaciones 
 
 - La codificación binaria permite un procesamiento más eficiente en modelos de machine learning.
 - Se creó la variable `DailyCharges` para observar patrones de gasto más finos.
